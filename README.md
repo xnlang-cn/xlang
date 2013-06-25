@@ -9,4 +9,3 @@ xnlang.cn/xlang
    ```
    ![Test XIB](http://xnlang.cn/templets/default/images/logo.gif)
    ![Test XIB](http://xnlang.cn/templets/default/images/logo.gif)
-   ![GitHub Logo](/templets/default/images/logo.gif)
