@@ -10,4 +10,4 @@ xnlang.cn/xlang
 
    ![Test XIB](https://www.xnlang.cn/logo.gif)
 ![GitHub Logo](https://www.xnlang.cn/logo.gif)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://www.xnlang.cn/logo.gif)
