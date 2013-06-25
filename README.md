@@ -9,5 +9,5 @@ xnlang.cn/xlang
    ```
 
    ![Test XIB](https://www.xnlang.cn/logo.gif)
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://www.xnlang.cn/logo.gif)
 Format: ![Alt Text](url)
